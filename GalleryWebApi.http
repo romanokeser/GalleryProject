@@ -1,0 +1,6 @@
+@GalleryWebApi_HostAddress = http://localhost:5013
+
+GET {{GalleryWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
